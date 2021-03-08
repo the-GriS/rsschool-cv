@@ -9,7 +9,7 @@
 
 ## Skills
 
-_**C++, Java, C#, JS, HTML, CSS**_
+**C++, Java, C#, JS, HTML, CSS**
 
 ## Code samples
 
