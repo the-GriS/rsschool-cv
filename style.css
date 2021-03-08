@@ -1,0 +1,45 @@
+body {
+  background-image: url(backPhoto.png);
+  -o-background-size: 100%;
+  -moz-background-size: 100%;
+  -webkit-background-size: 100%;
+  background-size: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.cv {
+  width: 50%;
+  height: 100vh;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  height: 20%;
+}
+
+.round {
+  display: inline-block;
+  border-radius: 400px; /* Радиус скругления */
+  box-shadow: 0 0 7px #666; /* Параметры тени */
+}
+
+.name {
+  color: rgb(255, 255, 255);
+  margin-left: 10%;
+}
+
+.text {
+  color: rgb(255, 255, 255);
+}
+
+.number {
+  margin-left: 55px;
+  margin-bottom: -4px;
+  margin-top: -4px;
+}
+
+.link {
+  color: rgb(0, 38, 255);
+}
