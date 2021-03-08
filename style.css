@@ -1,5 +1,5 @@
 body {
-  background-image: url(backPhoto.png);
+  background-image: url(backPhoto.jpg);
   -o-background-size: 100%;
   -moz-background-size: 100%;
   -webkit-background-size: 100%;
@@ -40,6 +40,17 @@ header {
   margin-top: -4px;
 }
 
-.link {
-  color: rgb(0, 38, 255);
+.git {
+  box-shadow: 0 0 7px #666; /* Параметры тени */
+}
+
+.rss {
+  height: 120px;
+  width: 150px;
+  float: left;
+}
+
+.round2 {
+  border-radius: 50px; /* Радиус скругления */
+  box-shadow: 0 0 7px #666; /* Параметры тени */
 }
