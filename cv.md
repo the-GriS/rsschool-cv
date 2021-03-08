@@ -3,7 +3,7 @@
 ## Contact
 
 - _**Email:**_ grishhenjas@gmail.com
-- _**Mobile:**_ +375295339498 (MTS)
+- _**Mobile:**_ +375295339498 (MTS) +375336336827 (A1)
 - _**Discord:**_ Хорошая Работа Олег#1050
 - _**VK:**_ vk.com/id178949224
 
